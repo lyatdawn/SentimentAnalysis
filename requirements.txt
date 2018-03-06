@@ -1,0 +1,4 @@
+# Requirerment
+python2.7
+tensorflow==1.4.0
+numpy
